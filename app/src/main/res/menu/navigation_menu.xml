@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/im_inicio"
+        android:icon="@drawable/ic_home_menu"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/im_profile"
+        android:icon="@drawable/ic_account_menu"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/im_logout"
+        android:icon="@drawable/ic_logout_menu"
+        android:title="@string/nip_control"/>
+
+</menu>
